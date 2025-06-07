@@ -1,0 +1,10 @@
+# OS Generated Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor Backup and Swap Files
+*~
+*.swp
+*.swo
