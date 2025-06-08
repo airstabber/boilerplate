@@ -21,8 +21,8 @@ To provide a reusable "Project Kickstart Kit" that includes:
     ```
     git clone https://github.com/airstabber/boilerplate.git YourNewProjectName
     ```
-2.  Follow the detailed instructions in `Archive/Markdown/initProject.md`  
-    (within the cloned `YourNewProjectName/Archive/Markdown/` directory) to:
+2.  Follow the detailed instructions in `Archive/Dump/Markdown/initProject.md`  
+    (within the cloned `YourNewProjectName/Archive/Dump/Markdown/` directory) to:
     - Decouple it from this boilerplate's Git history.
     - Initialize your chosen technology stack.
     - Set up your new project's own Git repository.
@@ -30,8 +30,8 @@ To provide a reusable "Project Kickstart Kit" that includes:
 
 ## Structure
 
-- The core templates are located within the `Archive/Markdown/` directory.
-- Refer to `Archive/Markdown/FolderStructure.md` for an overview of this boilerplate archive's layout.
+- The core templates are located within the `Archive/Dump/Markdown/` directory.
+- Refer to `Archive/Dump/Markdown/FolderStructure.md` for an overview of this boilerplate archive's layout.
 
 ## License
 

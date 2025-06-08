@@ -43,10 +43,10 @@
 
 ## Notes
 
-- Master templates (`StartPrompt.md`, `TODO.md`, `TODO-Example.md` [the generic 10-point one], `FolderStructure.md`, `initProject.md`) are located in `Archive/Markdown/`.
+- Master templates (`StartPrompt.md`, `TODO.md`, `TODO-Example.md` [the generic 10-point one], `FolderStructure.md`, `initProject.md`) are located in `Archive/Dump/Markdown/`.
 - To plan a new feature/component:
   1.  Create the appropriate subdirectory if it doesn't exist (e.g., `Features/MyNewFeature/` or `Core/User/Settings/`).
-  2.  Copy the master `Archive/Markdown/TODO-Example.md` into that subdirectory.
+  2.  Copy the master `Archive/Dump/Markdown/TODO-Example.md` into that subdirectory.
   3.  Rename it appropriately (e.g., `TODO-MyNewFeature.md` or `TODO-Settings-PersonalInfo.md`).
   4.  Collaborate with the AI LLM to Build it up & Fill it out.
   5.  If the feature/component is complex, create additional specialized planning documents within its subdirectory.

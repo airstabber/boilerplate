@@ -2,7 +2,7 @@
 
 ## 1. Purpose
 
-This document outlines the standardized procedure for initiating a new software  
+This document outlines the standardized procedure for initiating a new project  
  by cloning and utilizing the templates within this boilerplate Git repository.  
 Following these steps ensures consistency and a well-organized start to project planning and development.
 
@@ -15,7 +15,7 @@ Following these steps ensures consistency and a well-organized start to project 
 
 ## 3. Boilerplate Repository Overview
 
-This repository (`airstabber/boilerplate`) contains master templates in its `Archive/Markdown/` subdirectory:  
+This repository (`airstabber/boilerplate`) contains master templates in its `Archive/Dump/Markdown/` subdirectory:  
 `StartPrompt.md`, `TODO.md`, `TODO-Example.md` (for detailed features),  
  `FolderStructure.md` (template for project structure), and `initProject.md` (this guide).
 
@@ -65,7 +65,7 @@ This repository (`airstabber/boilerplate`) contains master templates in its `Arc
     - Stage all files:
       ```
       git add .
-      git commit -m "Initial commit - [Tech Stack] setup and project planning boilerplate from template"
+      git commit -m "Initial commit - [Tech Stack] setup and Project planning"
       ```
     - (Recommended) Create a new remote repository on GitHub/GitLab for `MyNewAwesomeAppName` and push:
       ```
@@ -77,7 +77,7 @@ This repository (`airstabber/boilerplate`) contains master templates in its `Arc
 
 6.  **Customize Planning Documents for the New Project:**
 
-    - Navigate into `MyNewAwesomeAppName/Archive/Markdown/`.
+    - Navigate into `MyNewAwesomeAppName/Archive/Dump/Markdown/`.
     - Edit `StartPrompt.md`, `TODO.md`, and `FolderStructure.md` to reflect the specifics  
        of `MyNewAwesomeAppName` (update project names, versions in headers, fill in content).
     - `TODO-Example.md` is your template for feature planning within this project.
